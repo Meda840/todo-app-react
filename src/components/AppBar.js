@@ -5,7 +5,7 @@ import "./AppBar.css"; // Optional: You can style the AppBar with CSS
 function AppBar() {
   return (
     <nav className="app-bar">
-      <h2>My To-Do App</h2>
+      <h2>My TODO APP</h2>
       <div className="nav-links">
         <Link to="/">Home</Link>
         <Link to="/completed">Completed Tasks</Link>
